@@ -41,6 +41,7 @@ NOTE: CREATING A NEXT APP CREATES A LOCAL REPO, YOU WILL NEED TO PUSH YOUR REMOT
 NOTE: DO NOT CREATE YOUR GITHUB REPO WITH A README  
   
 - Create a new repository on GitHub and follow the instructions to push your local repository to GitHub.
+![image](https://github.com/rja87sd/hello-world/assets/145504216/cfbc43ae-8061-4a9b-9512-77cd174aae90)  
   
 ### Document Your Work:  
   
