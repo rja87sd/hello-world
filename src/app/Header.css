@@ -1,0 +1,11 @@
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    gap: 10px;
+    list-style: none;
+    align-items: center;
+    justify-content: end;
+}
